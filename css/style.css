@@ -16,3 +16,7 @@ img {
     margin-right: auto;
     width: 45%;
   }
+.wrapper {
+    margin: 0 auto;
+    width: 45%;   
+}
